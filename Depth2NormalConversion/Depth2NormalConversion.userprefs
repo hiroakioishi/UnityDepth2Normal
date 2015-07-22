@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Depth2Normal\Scripts\Depth2NormalConversion.cs">
+    <Files>
+      <File FileName="Assets\Depth2Normal\Scripts\Depth2NormalConversion.cs" Line="69" Column="35" />
+      <File FileName="Assets\Depth2Normal\Shaders\Height2NormalConvert.shader" Line="36" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
