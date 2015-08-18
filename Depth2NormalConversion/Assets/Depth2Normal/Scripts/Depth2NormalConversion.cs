@@ -27,7 +27,7 @@ public class Depth2NormalConversion : MonoBehaviour {
 
 	public RenderTexture NormalMap {
 		get {
-			return this._depthBuffer;
+			return this._normalMap;
 		}
 	}
 
